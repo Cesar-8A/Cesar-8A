@@ -36,7 +36,7 @@ I'm an Engineer with a strong background in **electronics**, **embedded systems/
 **Tech stack**
 `Allegro CAD` · `Allegro CAD` · `Matlab` · `Oscilloscopes/SMU` · `PDN/VR validation` · `I²C` · `SPI` · `UART`
 
-**View all Electronics repos →** [https://github.com/USERNAME?tab=repositories\&q=topic%3Aelectronics](https://github.com/Cesar-8A?tab=repositories&q=topic%3Aelectronics)
+**View all Electronics repos →** [https://github.com/Cesar-8A?tab=repositories\&q=topic%3Aelectronics](https://github.com/Cesar-8A?tab=repositories&q=topic%3Aelectronics)
 
 ---
 
@@ -52,7 +52,7 @@ I'm an Engineer with a strong background in **electronics**, **embedded systems/
 **Skills**
 `C / C++` · `Bare-metal` · `RTOS` · `STM32CubeIDE` · `Keil uVision` · `VHDL/Verilog (basic)` · `Git`
 
-**View all Embedded repos →** [https://github.com/USERNAME?tab=repositories\&q=topic%3Aembedded](https://github.com/Cesar-8A?tab=repositories&q=topic%3Aembedded)
+**View all Embedded repos →** [https://github.com/Cesar-8A?tab=repositories\&q=topic%3Aembedded](https://github.com/Cesar-8A?tab=repositories&q=topic%3Aembedded)
 
 ---
 
@@ -70,7 +70,7 @@ I'm an Engineer with a strong background in **electronics**, **embedded systems/
 **Skills**
 `Python` · `TensorFlow/Keras` · `R` · `SQL` · `MongoDB` · `Data Pipelines` · `Optimization` · `RAG`
 
-**View all AI/DS repos →** [https://github.com/USERNAME?tab=repositories\&q=topic%3Aai-data-science](https://github.com/Cesar-8A?tab=repositories&q=topic%3Aai-data-science)
+**View all AI/DS repos →** [https://github.com/Cesar-8A?tab=repositories\&q=topic%3Aai-data-science](https://github.com/Cesar-8A?tab=repositories&q=topic%3Aai-data-science)
 
 ---
 
@@ -99,7 +99,7 @@ I'm an Engineer with a strong background in **electronics**, **embedded systems/
 
 * **Design and Implementation in FPGA a Random Number Generator of 10 bits validated by NIST Maurer’s “Universal Statistical” and Binary Matrix Rank tests.** *ICMEAE 2022*.
   *Role:* VHDL design, FPGA debugging, schematics.
-  **[Paper Link]([https://DOI-OR-URL](https://ieeexplore.ieee.org/document/10414496))** *(optional)*
+  **[Paper Link]([https://DOI-OR-URL](https://ieeexplore.ieee.org/document/10414496))**
 
 ---
 

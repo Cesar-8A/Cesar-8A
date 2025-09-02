@@ -107,7 +107,7 @@ I'm an Engineer with a strong background in **electronics**, **embedded systems/
 
 * **Languages:** C/C++, Python, R, VHDL, SQL, MongoDB
 * **Tools:** Matlab, STM32CubeIDE, Keil uVision, Git, Allegro CAD, Jira
-* **Protocols:** I²C, SPI, UART (RS‑232)
+* **Protocols:** I²C, SPI, UART (RS‑232, RS485)
 * **Languages:** Spanish / English
 
 ---

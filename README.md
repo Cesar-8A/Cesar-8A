@@ -2,7 +2,7 @@
 
 I'm an Engineer with a strong background in **electronics**, **embedded systems/firmware**, and **AI/Data Science**. I enjoy building end-to-end solutions. Here you'll find more about my projects and experience.
 
-> 📍 Guadalajara, Mexico · 🇪🇸/🇺🇸 Spanish/English · ✉️ *[cesaralbertoochoaavila1@hotmail.com](mailto:cesaralbertoochoaavila1@hotmail.com)* · 🔗 [LinkedIn](https://www.linkedin.com/in/cesar8a)
+> 📍 Guadalajara, Mexico · Spanish/English · ✉️ *[cesaralbertoochoaavila1@hotmail.com](mailto:cesaralbertoochoaavila1@hotmail.com)* · 🔗 [LinkedIn](https://www.linkedin.com/in/cesar8a)
 ---
 
 ## 🧭 Quick Navigation
